@@ -1,0 +1,5 @@
+venv
+.env
+dist
+node_modules
+*/
